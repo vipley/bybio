@@ -1,2 +1,2 @@
-# myinfo
-my sity
+# vipley.github.io
+vipley vizitka
